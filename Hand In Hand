@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ciberbullying</title>
+    <style>
+        body {
+            background-color: #00AAE4; 
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+        }
+        header {
+            background-color: #008080;
+            color: white;
+            padding: 10px 0;
+            width: 100%;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            width: 100%;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            width: 100%;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ciberbullying</h1>
+    </header>
+  
+        
+            <h2>¿Qué es?</h2>
+ <p style="text-align: justify;">Es un término que se utiliza para describir cuando un niño o adolescente, es molestado, amenazado, acosado, humillado, avergonzado o abusado por otro niño o adolescente, a través de Internet o cualquier medio de comunicación como teléfonos móviles o tablets.</p>
+        
+        
+<h2>Ejemplos de ciberacoso</h2>
+<center><h3>•Mensajes amenazantes</h3></center>
+<p>Enviar mensajes intimidatorios o amenazantes a través de redes sociales o mensajes de texto.</p><br/>
+<img src="IMG_4825.JPG" width= "300"/>
+
+<center><h3>•Difusión de rumores</h3></center>
+            <p>Publicar o compartir rumores falsos o maliciosos sobre alguien para dañar su reputación.</p><br/>
+<img src="IMG_4826.JPG" width="300"/>
+       <center><h3>•Suplantación de identidad</h3></center>
+            <p>Crear perfiles falsos o hackear cuentas para hacerse pasar por otra persona y causar problemas.</p><br/>
+<img src="IMG_4823.JPG" width="300"/>
+      <center> <h3>•Exclusión social en línea</h3></center>
+            <p>Excluir deliberadamente a alguien de grupos en línea, chats o eventos virtuales.</p><br/>
+<img src="IMG_4824.JPG" width="300"/>
+        <section>
+           <center> <h2>Cómo prevenir el ciberacoso</h2></center>
+            <p style="text-align:justify;">Para prevenir el ciberacoso, es importante educar a las personas sobre el uso seguro y responsable de la tecnología, fomentar la empatía y el respeto en línea, y conocer las herramientas para reportar y bloquear a acosadores.</p>
+        </section>
+    </main>
+
+</body>
+</html>
